@@ -1,0 +1,32 @@
+.info {
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.recipients {
+    text-align: center;
+    max-width: 1600px;
+    margin: 0 auto;
+    height: 600px;
+    overflow: auto;
+    border: solid 2px #000000;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    width: fit-content;
+    text-align: center;
+    margin: 0 auto;
+}

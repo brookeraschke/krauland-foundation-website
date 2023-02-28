@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="webpage-style.css">
+		<link rel="stylesheet" href="golfvolunteer-style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Volunteer Signup</title>
+		<h1>John Krauland, Jr. Memorial Foundation<h1>
+	</head>
+</html>
+
+<body>
+	<div class="navbar">
+	<a href="index.html">Home</a>
+	<a href="communityassistanceinfo.html">Community Assistance Information</a>
+	<div class="dropdown">
+		<button class="dropbtn"><b>Golf Outing</b>
+		<i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+		<a href="golfouting.html">Outing and Sponsorship Registration</a>
+		<a href="golfdonations.html">Donations</a>
+		<a href="golfvolunteer.html">Volunteer Signup</a>
+		</div>
+		</div>
+	<a href="scholarshipinfo.html">Scholarship Information</a>
+	<a href="https://www.facebook.com/TheJohnKraulandJrMemorialFoundation">Facebook</a>
+	</div>
+  
+	<div class = "info">
+	<h1>Volunteer Signup</h1>
+	<div class="slideshow-container" style="text-align:center;">
+		<div class="slideshow fade">
+		<img src="images/golfvolunteer/IMG_0346.JPG">
+		</div>
+		<div class="slideshow fade">
+		<img src="images/golfvolunteer/DSC_0877.JPG">
+		</div>
+		<div class="slideshow fade">
+		<img src="images/golfvolunteer/DSC_0885.JPG">
+		</div>
+		<div class="slideshow fade">
+		<img src="images/golfvolunteer/DSC_0952.JPG">
+		</div>
+		<div class="slideshow fade">
+		<img src="images/golfvolunteer/DSC_0962.JPG">
+		</div>
+		<div class="slideshow fade">
+		<img src="images/golfvolunteer/IMG_0378.JPG">
+		</div>
+	</div>
+	<br>
+
+	<div style="text-align:center">
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+		<span class="dot"></span> 
+	</div>
+
+	<script>
+		var slideIndex = 0;
+		showSlides();
+
+		function showSlides() {
+		var i;
+		var slides = document.getElementsByClassName("slideshow");
+		var dots = document.getElementsByClassName("dot");
+		for (i = 0; i < slides.length; i++) {
+			slides[i].style.display = "none";  
+		}
+		slideIndex++;
+		if (slideIndex > slides.length) {slideIndex = 1}    
+		for (i = 0; i < dots.length; i++) {
+			dots[i].className = dots[i].className.replace(" active", "");
+		}
+		slides[slideIndex-1].style.display = "block";  
+		dots[slideIndex-1].className += " active";
+		setTimeout(showSlides, 4000);
+		}
+	</script>
+
+	<p>If you are unable to golf but would like to volunteer at the outing please sign up!</p>
+		
+	<div class="container">
+		<form method="POST" action="https://formspree.io/f/xgebyoke">
+		<label for="subject">Subject</label>
+			<select id="subject" name="subject">
+			<option value="volunteer all day">Volunteer All Day</option>
+			<option value="volunteer in the morning">Volunteer AM</option>
+			<option value="volunteer in the afternoon">Volunteer PM</option>
+			</select>
+			
+			<label for="name">Name</label>
+			<input type="text" name="name" required>
+
+			<label for="phone">Phone</label>
+			<input type="text" name="phone" required>
+			
+			<label for="email">Email</label>
+			<input type="text" name="email" required>
+		
+			<input type="submit" value="Submit">
+		</form>
+	</div>	
+	</div>
+</body>

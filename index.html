@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="webpage-style.css">
+	<link rel="stylesheet" href="index-style.css">
+
+	<title>John Krauland, Jr. Memorial Foundation</title>
+	<h1>John Krauland, Jr. Memorial Foundation</h1>
+</head>
+
+<body>
+	<div class="navbar">
+	<a href="index.html">Home</a>
+	<a href="communityassistanceinfo.html">Community Assistance Information</a>
+	<div class="dropdown">
+		<button class="dropbtn"><b>Golf Outing</b>
+		<i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+		<a href="golfouting.html">Outing and Sponsorship Registration</a>
+		<a href="golfdonations.html">Donations</a>
+		<a href="golfvolunteer.html">Volunteer Signup</a>
+		</div>
+		</div>
+	<a href="scholarshipinfo.html">Scholarship Information</a>
+	<a href="https://www.facebook.com/TheJohnKraulandJrMemorialFoundation">Facebook</a>
+	</div>
+
+	<div class="slideshow-container" style="text-align:center;padding-top:50px;">
+		<div class="slideshow fade">
+		 <img src="images/index/p040.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p046.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p095.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p127.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p176.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p185.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p224.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p234.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p296.jpg">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/index/p146.jpg">
+		</div>
+	</div>
+	<br>
+
+	<div style="text-align:center">
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	</div>
+
+	<script>
+		var slideIndex = 0;
+		showSlides();
+
+		function showSlides() {
+		var i;
+		var slides = document.getElementsByClassName("slideshow");
+		var dots = document.getElementsByClassName("dot");
+		for (i = 0; i < slides.length; i++) {
+			slides[i].style.display = "none";  
+		}
+		slideIndex++;
+		if (slideIndex > slides.length) {slideIndex = 1}    
+		for (i = 0; i < dots.length; i++) {
+			dots[i].className = dots[i].className.replace(" active", "");
+		}
+		slides[slideIndex-1].style.display = "block";  
+		dots[slideIndex-1].className += " active";
+		setTimeout(showSlides, 4000);
+		}
+	</script>
+
+	<div class = "main">
+		<p>John Krauland, Jr. was such a compassionate and loving man.  He was tragically taken from all of us at 28 years old on March 14, 2014.  John was taken 
+		far too soon; he still had so many things to offer the world.  He always had a smile on his face that could light up the room.  He could look past difficult 
+		times and find positives in any situation.  He always wanted to make sure his family and friends were enjoying life and simply "having fun."</p>
+
+		<p>John was involved in football since he was a little boy.  He was a three-year varsity letter winner at Knoch High School where he led his team into playoffs 
+		his senior year.  He earned a scholarship to Slippery Rock University and a starting position as an offensive lineman.  Once he graduated, John still 
+		found himself on a football field through a flag football league.  He was also involved in a Sunday softball league with many of his close friends from 
+		high school.   In his spare time, you could find him spending time with his wife and dog, on the golf course, basketball court, or outside.</p>
+		
+		<p>John was also very passionate about his faith.  He took his grandmother to church every Sunday.  He became more involved in his church by volunteering as a 
+		7th grade CCD teacher, a Eucharistic minister, and a lector.  His degree at Slippery Rock University in Safety and Environmental Management led him to his 
+		career at The Catholic Diocese as a Loss Control and Safety Coordinator.</p>
+		
+		<p>The John Krauland, Jr. Memorial Foundation will continue to remember such wonderful attributes of John, and it will allow his name to continue by helping 
+		students who are in similar administrations as John.  This foundation will provide scholarships to Knoch or Deer Lakes High School Seniors who are attending a four-year 
+		college or university.  A student must show outstanding achievement in school, participation in a high school sport, and involvement in his or her church 
+		to be eligible for this scholarship.</p>
+		
+		<p>John was always willing to help anyone he possibly could.  It didn't make a difference whether you were family, a friend, or a complete stranger; John
+		was there for you either with his words or wisdom or to lending a helping hand.  So in addition to the scholarship, the foundation will be providing a Community
+		Assistance Program.  This program will allow members of the community to nominate a person or family who is in need of some help.  Each month, the foundation
+		will select a person or family to which they will provide assistance.</p>
+	</div>
+
+	<div class = "contact">
+		<p>Email: <a href = "mailto:jkmemorialfoundation@gmail.com">jkmemorialfoundation@gmail.com</a> if you would like to make a financial contribution. Please
+		make checks payable to The John Krauland Jr. Foundation and send to the following address:</br>
+		The John Krauland Jr, Foundation</br>
+		4098 Gibsonia Rd #857<br>
+		Gibsonia, PA 15044</p>
+	</div>
+	<div class="logo">
+		<img src="images/index/Logo.JPG">
+	</div>
+
+</body>
+</html>

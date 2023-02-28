@@ -1,0 +1,122 @@
+[06-Apr-2019 20:57:50 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/communityform.php on line 5
+[06-Apr-2019 20:57:50 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/communityform.php on line 6
+[06-Apr-2019 20:57:50 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/communityform.php on line 7
+[06-Apr-2019 20:57:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/kogj2qs89lpb/public_html/communityform.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kogj2qs89lpb/public_html/communityform.php on line 12
+[06-Apr-2019 21:00:07 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:00:07 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:00:07 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:00:07 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:00:07 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:00:29 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:00:29 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:00:29 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:00:29 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:00:29 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:30:02 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/communityform.php on line 5
+[06-Apr-2019 21:30:02 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/communityform.php on line 6
+[06-Apr-2019 21:30:02 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/communityform.php on line 7
+[06-Apr-2019 21:30:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/kogj2qs89lpb/public_html/communityform.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kogj2qs89lpb/public_html/communityform.php on line 12
+[06-Apr-2019 21:34:00 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:34:00 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:34:00 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:34:00 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:34:00 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:40:28 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:40:28 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:40:28 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:40:28 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:40:28 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:40:39 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:40:39 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:40:39 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:40:39 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:40:39 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:43:53 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:43:53 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:43:53 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:43:53 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:43:53 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:48:35 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:48:35 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:48:35 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:48:35 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:48:35 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:48:37 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:48:37 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:48:37 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:48:37 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:48:37 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[06-Apr-2019 21:48:52 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[06-Apr-2019 21:48:52 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[06-Apr-2019 21:48:52 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[06-Apr-2019 21:48:52 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[06-Apr-2019 21:48:52 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[07-Apr-2019 00:27:46 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[07-Apr-2019 00:27:46 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[07-Apr-2019 00:27:46 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[07-Apr-2019 00:27:46 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[07-Apr-2019 00:27:46 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[07-Apr-2019 00:27:59 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/volunteerform.php on line 3
+[07-Apr-2019 00:27:59 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/volunteerform.php on line 4
+[07-Apr-2019 00:27:59 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/volunteerform.php on line 5
+[07-Apr-2019 00:27:59 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/volunteerform.php on line 6
+[07-Apr-2019 20:32:38 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[07-Apr-2019 20:32:38 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[07-Apr-2019 20:32:38 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[07-Apr-2019 20:32:38 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[07-Apr-2019 20:32:38 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[07-Apr-2019 20:33:25 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[07-Apr-2019 20:33:25 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[07-Apr-2019 20:33:25 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[07-Apr-2019 20:33:25 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[07-Apr-2019 20:33:25 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[07-Apr-2019 20:41:28 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/donationform.php on line 3
+[07-Apr-2019 20:41:28 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/donationform.php on line 4
+[07-Apr-2019 20:41:28 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/donationform.php on line 5
+[07-Apr-2019 20:41:28 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/donationform.php on line 6
+[07-Apr-2019 20:41:28 UTC] PHP Notice:  Undefined index: donation in /home/kogj2qs89lpb/public_html/donationform.php on line 7
+[09-Apr-2019 18:51:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/kogj2qs89lpb/public_html/golfoutingform.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kogj2qs89lpb/public_html/golfoutingform.php on line 12
+[17-May-2019 13:53:48 UTC] PHP Notice:  Undefined index: name in /home/kogj2qs89lpb/public_html/volunteerform.php on line 3
+[17-May-2019 13:53:48 UTC] PHP Notice:  Undefined index: phone in /home/kogj2qs89lpb/public_html/volunteerform.php on line 4
+[17-May-2019 13:53:48 UTC] PHP Notice:  Undefined index: email in /home/kogj2qs89lpb/public_html/volunteerform.php on line 5
+[17-May-2019 13:53:48 UTC] PHP Notice:  Undefined index: subject in /home/kogj2qs89lpb/public_html/volunteerform.php on line 6
+[19-Oct-2021 18:40:04 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[20-Oct-2021 18:39:41 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[21-Oct-2021 18:38:39 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[22-Oct-2021 18:39:41 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[23-Oct-2021 18:39:45 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[24-Oct-2021 18:39:32 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[25-Oct-2021 18:39:50 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[26-Oct-2021 18:39:52 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[27-Oct-2021 18:39:46 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[28-Oct-2021 18:39:49 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[29-Oct-2021 18:40:05 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[30-Oct-2021 18:39:33 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[31-Oct-2021 18:39:16 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[01-Nov-2021 18:39:41 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[02-Nov-2021 18:39:52 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[03-Nov-2021 18:39:42 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[04-Nov-2021 18:39:15 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[05-Nov-2021 18:39:18 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[06-Nov-2021 18:39:41 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[07-Nov-2021 18:39:41 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[08-Nov-2021 21:53:52 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[09-Nov-2021 18:39:38 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[10-Nov-2021 18:39:24 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[11-Nov-2021 18:39:16 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[12-Nov-2021 18:39:06 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[13-Nov-2021 18:39:54 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[14-Nov-2021 18:38:53 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[15-Nov-2021 18:39:53 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[16-Nov-2021 18:39:56 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[17-Nov-2021 18:38:48 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[18-Nov-2021 18:39:08 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed

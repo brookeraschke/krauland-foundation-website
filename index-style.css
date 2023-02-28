@@ -1,0 +1,13 @@
+.main {
+    width: 75%;
+    background: #ffffff;
+    margin: 25px auto;
+    border: solid 2px #000000;
+    padding: 10px
+
+}
+
+div.logo>img {
+    width: 150px;
+    height: 150px;
+}

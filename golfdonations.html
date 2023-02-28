@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="webpage-style.css">
+		<link rel="stylesheet" href="golfdonations-style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Donations</title>
+		<h1>John Krauland, Jr. Memorial Foundation<h1>
+	</head>
+
+</html>
+
+<body>
+	<div class="navbar">
+	<a href="index.html">Home</a>
+	<a href="communityassistanceinfo.html">Community Assistance Information</a>
+	<div class="dropdown">
+		<button class="dropbtn"><b>Golf Outing</b>
+		<i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+		<a href="golfouting.html">Outing and Sponsorship Registration</a>
+		<a href="golfdonations.html">Donations</a>
+		<a href="golfvolunteer.html">Volunteer Signup</a>
+		</div>
+		</div>
+	<a href="scholarshipinfo.html">Scholarship Information</a>
+	<a href="https://www.facebook.com/TheJohnKraulandJrMemorialFoundation">Facebook</a>
+	</div>
+
+<h1>Donations</h1>
+	<div class="slideshow-container" style="text-align:center;">
+		<div class="slideshow fade">
+		 <img src="images/golfdonations/114.JPG">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/golfdonations/IMG_1115.JPG">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/golfdonations/IMG_1141.JPG">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/golfdonations/DSC_0908.JPG">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/golfdonations/DSC_0797.JPG">
+		</div>
+		<div class="slideshow fade">
+		  <img src="images/golfdonations/img_1541.jpg">
+		</div>
+	</div>
+	<br>
+
+	<div style="text-align:center">
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	  <span class="dot"></span> 
+	</div>
+
+	<script>
+		var slideIndex = 0;
+		showSlides();
+
+		function showSlides() {
+		var i;
+		var slides = document.getElementsByClassName("slideshow");
+		var dots = document.getElementsByClassName("dot");
+		for (i = 0; i < slides.length; i++) {
+			slides[i].style.display = "none";  
+		}
+		slideIndex++;
+		if (slideIndex > slides.length) {slideIndex = 1}    
+		for (i = 0; i < dots.length; i++) {
+			dots[i].className = dots[i].className.replace(" active", "");
+		}
+		slides[slideIndex-1].style.display = "block";  
+		dots[slideIndex-1].className += " active";
+		setTimeout(showSlides, 4000);
+		}
+	</script>
+	
+	<p>If you are unable to make the golf outing but would like to help make this a successul event, we are looking for the following items to be donated.</p>
+	
+	<div class = "donate">
+	<div class="container">
+	 <form method="POST" action="https://formspree.io/f/xvonrzok">
+	  
+	  	<label for="subject">Subject</label>
+		<input type="text" name="subject" value="Golf Outing Donation" required>
+		
+		<label for="name">Name</label>
+		<input type="text" name="name" required>
+
+		<label for="phone">Phone</label>
+		<input type="text" name="phone" required>
+		
+		<label for="email">Email</label>
+		<input type="text" name="email" required>
+
+		<label for="donation">Donation</label>
+		<select id="donation" name="donation">
+		  <option value="baskets for chinese raffle">Baskets for the Chinese Raffle</option>
+		  <option value="items for silent auction">Items for Silent Auction</option>
+		  <option value="water">Water</option>
+		  <option value="pop">Pop</option>
+		</select>
+	  
+		<input type="submit" value="Submit">
+	  </form>
+	</div>
+</div>
+
+</body>
