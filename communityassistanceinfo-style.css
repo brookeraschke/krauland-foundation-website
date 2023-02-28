@@ -25,6 +25,10 @@
     height: 600px;
     overflow: auto;
 }
+
+ul {
+    text-align: left;
+}
   
 /* The actual timeline (the vertical ruler) */
 .timeline {

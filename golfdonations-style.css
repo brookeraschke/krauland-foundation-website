@@ -23,9 +23,8 @@ input[type=text], select {
     background-color: #45a049;
   }
 
-  div.container {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-    text-align: left;
+iframe {
+    border: 0;
+    height: 500px;
+    width: 90vw;
   }
